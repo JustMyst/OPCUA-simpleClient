@@ -1,0 +1,24 @@
+{
+  "name": "node-opcua-client",
+  "version": "0.0.1",
+  "description": "Simple OPCUA Client made with node-opcua",
+  "main": "client.js",
+  "dependencies": {
+    "node-opcua": "^2.1.9",
+    "node-opcua-client": "^2.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node client.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "OPC-UA",
+    "opcua",
+    "nodejs",
+    "javascript"
+  ]
+}
