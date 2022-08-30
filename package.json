@@ -4,7 +4,7 @@
   "description": "Simple OPCUA Client made with node-opcua",
   "main": "client.js",
   "dependencies": {
-    "node-opcua": "^2.1.9",
+    "node-opcua": "^2.74.0",
     "node-opcua-client": "^2.1.9"
   },
   "devDependencies": {},
